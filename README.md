@@ -92,6 +92,15 @@ Customers were segmented into:
 * Run targeted campaigns based on customer segments
 * Expand in high-performing regions and cities
 
+📁 Project Structure
+Ecommerce-Analysis/
+│
+├── data/                # Dataset
+├── notebooks/           # Python analysis
+├── dashboard/           # Power BI file (.pbix)
+├── images/              # Dashboard screenshots
+└── README.md
+
 🧠 Learning Outcomes
 
 * Hands-on experience with real-world data analysis
